@@ -7,16 +7,18 @@ function App() {
         <img src="src/assets/norwintrading.logo.png"></img>
       </header>
       <div class="flex-container">
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>  
-        <div>4</div>
-        <div>5</div>
-        <div>6</div>  
-        <div>7</div>
-        <div>8</div>
+        <div>Home</div>
+        <div>About</div>
+        <div>Product</div>  
+        <div>Calculator</div>
+        <div>Blog</div>
+        <div>Contact Us</div>  
+        <div></div>
+        <div>Sign In</div>
       </div>
-
+    <main>
+      <h2>Time to get started</h2>
+    </main>
       
     </>
   )
