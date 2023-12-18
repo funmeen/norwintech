@@ -13,9 +13,12 @@
 
 header {
   text-align: center;
-  width: 100%; 
-  height: auto;
-  
+  height: 150px;
+}
+
+header img{
+  width: auto;
+  height: 100%;
 }
 
 .flex-container {
